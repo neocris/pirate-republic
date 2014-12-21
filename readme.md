@@ -1,0 +1,1 @@
+static web front page with [jwz.org](jwz.org) matrix code simulator and [openbay](openbay.isohunt.to) pirate video background
